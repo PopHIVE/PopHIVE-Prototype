@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/pophive-prototype/static/js/main.1456929c.js",
+    "static/media/typeOfOpioid.png": "/pophive-prototype/static/media/typeOfOpioid.7673883992c770c56564.png",
+    "static/media/ysphLogo.png": "/pophive-prototype/static/media/ysphLogo.5722dacfa46a8cb69e1a.png",
+    "index.html": "/pophive-prototype/index.html",
+    "main.1456929c.js.map": "/pophive-prototype/static/js/main.1456929c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1456929c.js"
+  ]
+}
