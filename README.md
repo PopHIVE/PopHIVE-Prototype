@@ -4,7 +4,7 @@
 
 Enclosed is the code used for the second PopHIVE prototype dashboard, which transitions the code from an RShiny-based implementation to a JavaScript-based one for better performance. This repository includes the code for generating the JavaScript version of the dashboard, referencing data from the R-based version found in [PopHIVE/DSDE-PopHIVE](https://github.com/PopHIVE/DSDE-PopHIVE). During its development, the RShiny-based prototype was still being updated, so some of these updates are not reflected in this version.
 
-The code was originally copied from a repository in the [YSPH Data Science and Data Equity](https://github.com/ysph-dsde) (YSPH-DSDE) GitHub Organization and was copied into the [PopHIVE](https://github.com/PopHIVE) GitHub Organization Aug 12th, 2025. At the time of transfer, the YSPH-DSDE GitHub Organization codebase was no longer being actively contributed to and had been archived.
+The was originally developed in a [YSPH Data Science and Data Equity](https://github.com/ysph-dsde) (YSPH-DSDE) GitHub Organization repository and was copied into the [PopHIVE](https://github.com/PopHIVE) GitHub Organization Aug 12th, 2025. At the time of transfer, the YSPH-DSDE GitHub Organization codebase was no longer being actively contributed to and had been archived.
 
 The dashboard deployment can be found here: _____.
 
