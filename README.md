@@ -6,7 +6,7 @@ Enclosed is the code used for the second PopHIVE prototype dashboard, which tran
 
 The was originally developed in a [YSPH Data Science and Data Equity](https://github.com/ysph-dsde) (YSPH-DSDE) GitHub Organization repository and was copied into the [PopHIVE](https://github.com/PopHIVE) GitHub Organization Aug 12th, 2025. At the time of transfer, the YSPH-DSDE GitHub Organization codebase was no longer being actively contributed to and had been archived.
 
-The dashboard deployment can be found here: _____.
+The dashboard deployment can be found here: https://pophive.github.io/PopHIVE-Prototype/.
 
 **Dates active:** Mar 10th – June 22nd, 2025
 
