@@ -40,7 +40,7 @@ The dashboard deployment can be found here: _____.
 
     1. Respiratory_Infections.gz.parquet (source DSDE-PopHIVE/Data - [file URL](https://github.com/PopHIVE/DSDE-PopHIVE/blob/main/Data/Respiratory_Infections.gz.parquet))
     2. Respiratory_Infections_Wastewater.gz.parquet (source DSDE-PopHIVE/Data - [file URL](https://github.com/PopHIVE/DSDE-PopHIVE/blob/main/Data/Respiratory_Infections_Wastewater.gz.parquet))
-    3. Opioid_Overdoses.csv (source DSDE-PopHIVE/Data - [file URL](https://github.com/PopHIVE/DSDE-PopHIVE/blob/main/Data/Opioid_Overdoses.csv)) and [subsets converted to parquet](https://github.com/PopHIVE/DSDE-PopHIVE/tree/main/Data/Opioid%20Overdoses)
+    3. Opioid_Overdoses.csv (source DSDE-PopHIVE/Data - [file URL](https://github.com/PopHIVE/DSDE-PopHIVE/blob/main/Data/Opioid_Overdoses.csv) and [subsets converted to parquet](https://github.com/PopHIVE/DSDE-PopHIVE/tree/main/Data/Opioid%20Overdoses))
 
 - Plot types:
 
