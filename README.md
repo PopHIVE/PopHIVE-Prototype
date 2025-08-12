@@ -8,7 +8,7 @@ The was originally developed in a [YSPH Data Science and Data Equity](https://gi
 
 The dashboard deployment can be found here: _____.
 
-**Dates active:** Mar 10th – May 9th, 2025
+**Dates active:** Mar 10th – June 22nd, 2025
 
 &nbsp;
 
