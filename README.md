@@ -16,7 +16,7 @@ The dashboard deployment can be found here: _____.
 
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/PopHIVE/PopHIVE-Prototype) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/PopHIVE/PopHIVE-Prototype) ![GitHub Release Date](https://img.shields.io/github/release-date/PopHIVE/PopHIVE-Prototype) ![GitHub repo size](https://img.shields.io/github/repo-size/PopHIVE/PopHIVE-Prototype)
 
-![GitHub contributors](https://img.shields.io/github/contributors/PopHIVE/PopHIVE-Prototype) ![GitHub last commit](https://img.shields.io/github/last-commit/PopHIVE/PopHIVE-Prototype) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/PopHIVE/PopHIVE-Prototype) ![GitHub language count](https://img.shields.io/github/languages/count/PopHIVE-Prototype) ![GitHub top language](https://img.shields.io/github/languages/top/PopHIVE/PopHIVE-Prototype)
+![GitHub contributors](https://img.shields.io/github/contributors/PopHIVE/PopHIVE-Prototype) ![GitHub last commit](https://img.shields.io/github/last-commit/PopHIVE/PopHIVE-Prototype) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/PopHIVE/PopHIVE-Prototype) ![GitHub language count](https://img.shields.io/github/languages/count/PopHIVE/PopHIVE-Prototype) ![GitHub top language](https://img.shields.io/github/languages/top/PopHIVE/PopHIVE-Prototype)
 
 
 # PopHIVE Prototype Aims and Scope
