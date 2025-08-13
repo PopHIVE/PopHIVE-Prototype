@@ -1,6 +1,6 @@
 {
   "name": "pophive",
-  "homepage": "https://pophive.org",
+  "homepage": "https://pophive.github.io/PopHIVE-Prototype/",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -50,7 +50,7 @@
     "globals": "^15.9.0",
     "typescript-eslint": "^8.0.0"
   },
-  "description": "Source code for [Pophive](https://pophive.org) in the main branch.",
+  "description": "Source code for Pophive Prototype is in the main branch.",
   "main": "index.js",
   "author": "",
   "license": "ISC"
